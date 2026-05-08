@@ -2,7 +2,7 @@
 
 Hey, I’m Bradley — a games developer based in Cambridge.
 
-I mainly work in Unreal Engine and have experience building projects from the ground up, both independently and as part of my own studio, Simian Studios LTD. I’m also expanding my skills by learning new programming languages to broaden the types of projects I can create.
+I mainly work in Unreal Engine and have experience building projects from the ground up, both independently as part of my own studio and collaboratively Simian Studios LTD. I’m also expanding my skills by learning new programming languages to broaden the types of projects I can create.
 
 Alongside development, I have experience in 3D asset creation and regularly use Blender for modelling and design work in my personal projects.
 

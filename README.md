@@ -10,7 +10,7 @@ On this profile, you’ll find a collection of work released under Simian Studio
 
 ## A Bit About Me
 
-*Loves movies and video games
+* Loves movies and video games
 
 *Outdoors enthusiast — fishing and camping
 

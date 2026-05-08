@@ -12,11 +12,11 @@ On this profile, you’ll find a collection of work released under Simian Studio
 
 * Loves movies and video games
 
-*Outdoors enthusiast — fishing and camping
+* Outdoors enthusiast — fishing and camping
 
-*Enjoys crafting and building things
+* Enjoys crafting and building things
 
-*Proud husky owner of Clover
+* Proud husky owner of Clover
 <!--
 **BradAldusPortfolio/BradAldusPortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

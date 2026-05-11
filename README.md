@@ -17,6 +17,9 @@ On this profile, you’ll find a collection of work released under Simian Studio
 * Enjoys crafting and building things 🛠️
 
 * Proud husky owner of Clover 🍀
+
+
+
 <!--
 **BradAldusPortfolio/BradAldusPortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

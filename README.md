@@ -20,8 +20,9 @@ On this profile, you’ll find a collection of work released under Simian Studio
 
 ## Projects
 
-<img width="300" height="300" alt="Venus_300x300" src="https://github.com/user-attachments/assets/9d2663f8-adc4-4878-864d-0f644f179e2b" />
-<img width="300" height="300" alt="Mercury_300x300" src="https://github.com/user-attachments/assets/c221a683-28e8-4389-a516-402718b93de6" />
+
+<img width="300" height="300" alt="Mercury_300x300" alt="Venus_300x300" src="https://github.com/user-attachments/assets/ee4d4078-1838-44c6-aa0d-f473edee5696" />
+
 
 
 
